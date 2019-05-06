@@ -7,6 +7,7 @@ title: Exaggerated blog
 subtitle: Everything i leaen
 description: Hello world
 keywords: 
+# 外链图片地址
 avatar: http://www.lv005.com/icon.jpg
 author: David
 language: zh-Hans
@@ -80,5 +81,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/Davidzhaojb/Davidzhao.github.io.git
+  repo: http://github.com/Davidzhaojb/Davidzhao.github.io.git
   branch: master
