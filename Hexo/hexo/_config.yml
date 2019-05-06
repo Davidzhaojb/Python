@@ -3,13 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: hexo
-description:
-keywords:
+title: Exaggerated blog
+subtitle: Everything i leaen
+description: Hello world
+keywords: 
+avatar: http://www.lv005.com/icon.jpg
 author: David
-language:
-timezone:
+language: zh-Hans
+timezone: Asia/Beijing
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
