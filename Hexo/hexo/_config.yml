@@ -5,12 +5,12 @@
 # Site
 title: Exaggerated blog
 subtitle: Everything i leaen
-description: Hello world
+description: ionic4 html5 css3 javascript linux Python 
 keywords: 
-# 外链图片地址
-avatar: http://www.lv005.com/icon.jpg
+# 外链头像图片地址
+avatar: http://www.lv005.com/otherimgs/icon.jpg
 author: David
-language: zh-Hans
+language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
@@ -75,7 +75,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: hiker
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

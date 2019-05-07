@@ -1,7 +1,7 @@
 ---
 title: Ionic4 components ---ion-button
 date: 2019-05-07 00:09:11
-tags:
+tags: Ionic4
 ---
 
 ## Ionic 4
