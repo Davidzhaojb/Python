@@ -1,5 +1,6 @@
 ---
 title: {{ title }}
 date: {{ date }}
-tags:  David
+tags:  David - Work is for a better life
+categories: 
 ---
